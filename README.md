@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I am Pratiksha 
+A passionate Full Stack developer from India
 
 <!--
-**PratikshaDable21/PratikshaDable21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PratikshaDable21/PratikshaDable21** is a ✨ A passionate Full Stack developer from India
+ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
